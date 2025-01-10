@@ -1,13 +1,34 @@
-/* #1A4490 Egyptian Blue #088371 Pine Green #D0A652 Apache #91556E Cannon Pink */
+/* #1A4490 Egyptian Blue #035f28 Green #D0A652 Apache #91556E Cannon Pink */
 
-.navbar {
-    background-color: #035f51 !important;
+.navbar, body{
+    background-color: #044a20 !important;
+    color: white;
 }
 
 .navbar-brand, .nav-link {
     color: #ffffff !important;
+    align-self: center;
+}
+
+.navbar-brand {
+    margin-left: 20px;
 }
 
 .nav-link {
-    float: left;
+    margin-left: 30px;
+}
+
+.emrald {
+    margin-left: 850px;
+}
+
+#hero {
+    width: 100%;
+}
+
+.col-sm {
+    margin-left: 8px;
+    margin-top: 60px;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
 }
