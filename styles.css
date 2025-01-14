@@ -1,4 +1,4 @@
-/* #1A4490 Egyptian Blue #035f28 Green #D0A652 Apache #91556E Cannon Pink */
+/* #1A4490 Egyptian Blue #044a20 Green #D0A652 Apache #91556E Cannon Pink */
 
 .navbar, body{
     background-color: #044a20 !important;
@@ -31,4 +31,22 @@
     margin-top: 60px;
     border: 2px solid #ffffff;
     border-radius: 20px;
+}
+
+#home-col {
+    width: 300px !important;
+}
+
+.container {
+    padding-bottom: 70px;
+}
+
+.footer {
+    height: 150px;
+    border-top: 2px solid white;
+}
+
+h6 {
+    align-self: center;
+    font-size: 11px;
 }
