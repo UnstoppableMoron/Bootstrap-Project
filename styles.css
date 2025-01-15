@@ -47,6 +47,21 @@
 }
 
 h6 {
-    align-self: center;
+    text-align: center;
     font-size: 11px;
+    padding-top: 70px;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.textHeading {
+    border: none;
+    text-align: center;
+    font-size: 35px;
+}
+
+.starterImage {
+    width: 600px;
 }
