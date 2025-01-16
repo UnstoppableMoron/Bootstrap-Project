@@ -19,7 +19,7 @@
 }
 
 .emrald {
-    margin-left: 850px;
+    margin-left: 700px;
 }
 
 #hero {
@@ -63,5 +63,23 @@ h6 {
 }
 
 .starterImage {
-    width: 600px;
+    width: 100%;
 }
+
+.noBorder {
+    border: none;
+}
+
+.speciesText {
+    width: 200px;
+    border: none;
+    text-align: center;
+    padding-top: 22%;
+    font-size: 28px;
+}
+
+.speciesType {
+    width: 65px;
+}
+
+/* Individual Pokémon Type Styling */
