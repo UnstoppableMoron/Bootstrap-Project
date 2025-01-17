@@ -37,11 +37,19 @@
     width: 300px !important;
 }
 
-.hero {
+/* .hero {
     background-image: url("images/qayza.avif");
     height: 900px;
     background-position: center;
     background-repeat: no-repeat;
+    max-width: auto;
+} */
+
+.heroText {
+    z-index: 2;
+    background-color: #044a20;
+    width: 200px;
+
 }
 
 .container {
