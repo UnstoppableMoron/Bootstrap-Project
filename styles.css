@@ -31,25 +31,36 @@
     margin-top: 60px;
     border: 2px solid #ffffff;
     border-radius: 20px;
+    text-align: center;
 }
 
 #home-col {
     width: 300px !important;
 }
 
-/* .hero {
-    background-image: url("images/qayza.avif");
-    height: 900px;
+.hero {
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     max-width: auto;
-} */
+}
+
+.mapHero {
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: auto;
+}
 
 .heroText {
     z-index: 2;
     background-color: #044a20;
-    width: 200px;
-
+    width: 250px;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 600px;
+    margin-bottom: 50px;
 }
 
 .container {
