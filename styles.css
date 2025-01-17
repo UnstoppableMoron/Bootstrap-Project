@@ -37,6 +37,13 @@
     width: 300px !important;
 }
 
+.hero {
+    background-image: url("images/qayza.avif");
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .container {
     padding-bottom: 70px;
 }
@@ -81,5 +88,3 @@ h6 {
 .speciesType {
     width: 65px;
 }
-
-/* Individual Pokémon Type Styling */
